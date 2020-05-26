@@ -33,6 +33,11 @@ Below you can find the comparison in terms of Accuracy for different models:
 
 ![](qoe-prediction/img/results_sa.png)
 
+## **Related Work** ##
+* https://www.kaggle.com/valeriol93/predict-qoe
+* https://mosclassifier.herokuapp.com/
+* https://www.kaggle.com/sachingawade/mos-classifier
+
 ## **References**
 
 * [1] J. Pérez-Romero, O. Sallent, R. Ferrús, R. Agustí, “Artificial Intelligence-based 5G Network Capacity Planning and Operation”, International Symposium on Wireless Communication Systems (ISWCS), pp. 246-250, 2015.
